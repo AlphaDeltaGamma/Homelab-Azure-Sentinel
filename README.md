@@ -8,6 +8,7 @@ To use Microsoft Sentinel, we need to create a virtual machine in Azure. In this
 
 # Links
 https://azure.microsoft.com/en-us/free/
+
 https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1 (Script for log exporter)
 
 
